@@ -17,7 +17,7 @@
             <div class="hero-unit">
                 <h1>Simple PHP App</h1>
                 <h2>Congratulations!</h2>
-                <p><h2>Site1</h2></p>
+                <p><h2>Site2</h2></p>
                 <p>This host is running PHP version <?php echo phpversion(); ?>.</p>
             </div>
         </div>
