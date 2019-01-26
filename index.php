@@ -17,9 +17,9 @@
             <div class="hero-unit">
                 <h1>Simple PHP App</h1>
                 <h2>Congratulations!</h2>
-                <p>Your PHP application is now running on the host &ldquo;<?php echo gethostname(); ?>&rdquo;</p>
+                <p>Your PHP application is now running on the host <strong>&ldquo;<?php echo gethostname(); ?>&rdquo;</strong></p>
                 <p>This host is running PHP version <?php echo phpversion(); ?>.</p>
-                <p>Powered by Azure DevOps!</p>
+                <p>Powered by Azure!</p>
             </div>
         </div>
 
