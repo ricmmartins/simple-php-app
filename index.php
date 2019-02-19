@@ -19,7 +19,7 @@
                 <h2>Congratulations!</h2>
                 <p>Your PHP application is now running on the host <strong>&ldquo;<?php echo gethostname(); ?>&rdquo;</strong></p>
                 <p>This host is running PHP version <?php echo phpversion(); ?>.</p>
-                <p>Powered by Microsoft Azure!</p>
+                <p>Powered by Microsoft Azure and Azure App Service!</p>
             </div>
         </div>
 
