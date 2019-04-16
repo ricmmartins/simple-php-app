@@ -15,7 +15,7 @@
     <body>
         <div class="container">
             <div class="hero-unit">
-                <h1>Simple PHP App - 09 de Abril</h1>
+                <h1>Simple PHP App</h1>
                 <h2>Congratulations!</h2>
                 <p>Your PHP application is now running on the host <strong>&ldquo;<?php echo gethostname(); ?>&rdquo;</strong></p>
                 <p>This host is running PHP version <?php echo phpversion(); ?>.</p>
