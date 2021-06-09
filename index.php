@@ -15,11 +15,11 @@
     <body>
         <div class="container">
             <div class="hero-unit">
-                <h1>Simple PHP App - AZ900</h1>
+                <h1>Simple PHP App</h1>
                 <h2>Congratulations!</h2>
                 <p>Your PHP application is now running on the host <strong>&ldquo;<?php echo gethostname(); ?>&rdquo;</strong></p>
                 <p>This host is running PHP version <?php echo phpversion(); ?>.</p>
-                <p>Powered by Microsoft Azure! - 11 December 2019</p>
+                <p>Powered by Microsoft Azure!</p>
             </div>
         </div>
 
